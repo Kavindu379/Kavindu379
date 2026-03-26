@@ -4,12 +4,12 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=kavindu379&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
+
 ---
 
 ### 🚀 About Me
 
 - 🎓 Currently studying at **General Sir John Kotelawala Defence University (KDU)**.
-- 🔭 Working on Android applications like **UniAttendanceTracker** and a **Laboratory Information System**.
 - 🎨 Blending tech and creative design through my startup, **SpaceStudio**.
 - 🌱 Exploring advanced Java data structures, Android dev, and mobile cybersecurity (NetHunter).
 - 📄 Know about my experiences on my [Portfolio Website](https://kavindu379.github.io/kavindu-portfolio/)
@@ -44,6 +44,8 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavindu379&show_icons=true&locale=en" alt="kavindu379 stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindu379&show_icons=true&locale=en&layout=compact" alt="kavindu379 top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavindu379&show_icons=true&locale=en&theme=radical" alt="kavindu379 stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindu379&show_icons=true&locale=en&layout=compact&theme=radical" alt="kavindu379 top languages" height="165" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu379&theme=radical" alt="kavindu379 streak stats" />
 </div>
