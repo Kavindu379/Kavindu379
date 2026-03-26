@@ -10,7 +10,6 @@
 ### 🚀 About Me
 
 - 🎓 Currently studying at **General Sir John Kotelawala Defence University (KDU)**.
-- 🎨 Blending tech and creative design through my startup, **SpaceStudio**.
 - 🌱 Exploring advanced Java data structures, Android dev, and mobile cybersecurity (NetHunter).
 - 📄 Know about my experiences on my [Portfolio Website](https://kavindu379.github.io/kavindu-portfolio/)
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Kavindu379)
