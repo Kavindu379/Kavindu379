@@ -43,7 +43,6 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavindu379&show_icons=true&locale=en&theme=radical" alt="kavindu379 stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindu379&show_icons=true&locale=en&layout=compact&theme=radical" alt="kavindu379 top languages" height="165" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu379&theme=radical" alt="kavindu379 streak stats" />
