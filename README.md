@@ -91,10 +91,9 @@
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Kavindu379/Mango-AI-Quality-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu379&repo=Mango-AI-Quality-System&theme=radical" alt="Mango AI Quality System" />
-  </a>
+<a href="https://github.com/Kavindu379/Mango-AI-Quality-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu379&repo=Mango-AI-Quality-System&theme=radical" alt="Mango AI Quality System" />
+</a>
 
   <a href="https://github.com/TIHOR1140/Laboratory-Information-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TIHOR1140&repo=Laboratory-Information-System&theme=radical" alt="Laboratory Information System" />
