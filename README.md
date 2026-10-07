@@ -1,21 +1,28 @@
 <h1 align="center">Hi 👋, I'm Kavindu Kavishka</h1>
-<h3 align="center">A passionate software developer and tech explorer.</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=kavindu379&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+<h3 align="center">Software Engineering Undergraduate | AI/ML Enthusiast | Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kavindu379&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Currently studying at **General Sir John Kotelawala Defence University (KDU)**.
-- 🌱 Exploring advanced Java data structures, Android dev, and mobile cybersecurity (NetHunter).
-- 📄 Know about my experiences on my [Portfolio Website](https://kavindu379.github.io/kavindu-portfolio/)
-- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Kavindu379)
+
+- 💻 Interested in **Software Development, AI/ML, Web & Mobile Development**.
+- 🤖 Exploring **Artificial Intelligence and Computer Vision** through practical projects.
+- 🎮 Interested in **Game Development and Technology**.
+- 🌱 Always learning and building projects to improve my technical skills.
+- 📄 Check out my **[Portfolio Website](https://kavindu379.github.io/kavindu-portfolio/)**
+- 👨‍💻 All of my projects are available on **[GitHub](https://github.com/Kavindu379)**
 - 📫 How to reach me: **kkavindu379@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🤝 Connect with me
+
 <p align="left">
   <a href="https://linkedin.com/in/kavindu-kavishka" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -24,15 +31,15 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/rhk_kavishka" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 
-<p align="left"> 
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=android,arduino,cpp,firebase,git,html,illustrator,java,js,mysql,nodejs,photoshop,python,react&perline=15" alt="My Skills" />
   </a>
@@ -40,10 +47,14 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindu379&show_icons=true&locale=en&layout=compact&theme=radical" alt="kavindu379 top languages" height="165" />
+
   <br><br>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu379&theme=radical" alt="kavindu379 streak stats" />
+
 </div>
