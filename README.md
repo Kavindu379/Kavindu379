@@ -15,7 +15,7 @@
 - 💻 Interested in **Software Development, AI/ML, Web & Mobile Development**.
 - 🤖 Exploring **Artificial Intelligence and Computer Vision** through practical projects.
 - 🎮 Interested in **Game Development and Technology**.
-- 🌱 Always learning and building new projects.
+- 🌱 Always learning and building projects to improve my technical skills.
 - 📄 Check out my **[Portfolio Website](https://kavindu379.github.io/kavindu-portfolio/)**
 - 👨‍💻 All of my projects are available on **[GitHub](https://github.com/Kavindu379)**
 - 📫 How to reach me: **kkavindu379@gmail.com**
@@ -26,13 +26,15 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/kavindu-kavishka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
   <a href="https://fb.com/kavindukavishka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
+
   <a href="https://instagram.com/rhk_kavishka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -52,18 +54,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindu379&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindu379&show_icons=true&locale=en&layout=compact&theme=radical" alt="Kavindu's Top Languages" height="165" />
 
-<br><br>
+  <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu379&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu379&theme=radical" alt="Kavindu's GitHub Streak" />
 
 </div>
 
 ---
 
-### 🐍 Contribution Graph
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kavindu379/Kavindu379/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kavindu379&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6c5ce7&height=120&section=footer" alt="Animated Footer" />
 </p>
