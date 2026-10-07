@@ -46,15 +46,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavindu-kavishka-6a2016362/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kavindu%20Kavishka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/kavindukavishka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-Kavindu%20Kavishka-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/rhk_kavishka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-rhk__kavishka-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
