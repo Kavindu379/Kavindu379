@@ -93,10 +93,12 @@
 
 <p align="center">
   <a href="https://github.com/Kavindu379/Mango-AI-Quality-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu379&repo=Mango-AI-Quality-System&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu379&repo=Mango-AI-Quality-System&theme=radical" alt="Mango AI Quality System" />
+  </a>
+  <a href="https://github.com/Kavindu379/CineSearch-Movie-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu379&repo=CineSearch-Movie-App&theme=radical" alt="CineSearch Movie App" />
   </a>
 </p>
-
 ---
 
 <p align="center">
