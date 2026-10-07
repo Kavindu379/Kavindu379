@@ -12,53 +12,64 @@
 
 ### 🚀 About Me
 
-- 💻 Interested in **Software Development, AI/ML, Web & Mobile Development**.
-- 🤖 Exploring **Artificial Intelligence and Computer Vision** through practical projects.
-- 🎮 Interested in **Game Development and Technology**.
-- 🌱 Always learning and building projects to improve my technical skills.
-- 📄 Check out my **[Portfolio Website](https://kavindu379.github.io/kavindu-portfolio/)**
-- 👨‍💻 All of my projects are available on **[GitHub](https://github.com/Kavindu379)**
-- 📫 How to reach me: **kkavindu379@gmail.com**
+<pre>
+╭──────────────────────────────────────────────────────╮
+│                    KAVINDU.EXE                       │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  👨‍💻 Role       : Software Engineering Undergraduate │
+│  🎓 University : KDU                                │
+│  🤖 Focus      : AI / ML & Computer Vision          │
+│  💻 Building   : Software • Web • Mobile            │
+│  🎮 Exploring  : Game & Interactive Technology      │
+│  🌱 Status     : Learning • Building • Improving    │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+</pre>
 
 ---
 
 ### 🤝 Connect with me
 
 <p align="left">
+
   <a href="https://linkedin.com/in/kavindu-kavishka" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40" />
   </a>
 
   <a href="https://fb.com/kavindukavishka" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Facebook"
+      height="30"
+      width="40" />
   </a>
 
   <a href="https://instagram.com/rhk_kavishka" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram"
+      height="30"
+      width="40" />
   </a>
-</p>
-
----
-
-### 🌐 Find Me Around the Web
-
-<p align="left">
-
-  💼 <a href="https://linkedin.com/in/kavindu-kavishka" target="_blank"><b>LinkedIn</b></a><br>
-  🌐 <a href="https://kavindu379.github.io/kavindu-portfolio/" target="_blank"><b>Portfolio</b></a><br>
-  🐙 <a href="https://github.com/Kavindu379" target="_blank"><b>GitHub</b></a><br>
-  📸 <a href="https://instagram.com/rhk_kavishka" target="_blank"><b>Instagram</b></a><br>
-  📘 <a href="https://facebook.com/kavindukavishka" target="_blank"><b>Facebook</b></a>
 
 </p>
 
 ---
+
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,arduino,cpp,firebase,git,html,illustrator,java,js,mysql,nodejs,photoshop,python,react&perline=15" alt="My Skills" />
+    <img
+      src="https://skillicons.dev/icons?i=android,arduino,cpp,firebase,git,html,illustrator,java,js,mysql,nodejs,photoshop,python,react&perline=15"
+      alt="My Skills"
+    />
   </a>
 </p>
 
@@ -68,15 +79,28 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindu379&show_icons=true&locale=en&layout=compact&theme=radical" alt="Kavindu's Top Languages" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindu379&show_icons=true&locale=en&layout=compact&theme=radical"
+    alt="Kavindu's Top Languages"
+    height="165"
+  />
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu379&theme=radical" alt="Kavindu's GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu379&theme=radical"
+    alt="Kavindu's GitHub Streak"
+  />
 
 </div>
+
 ---
 
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6c5ce7&height=120&section=footer" alt="Animated Footer" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6c5ce7&height=120&section=footer"
+    alt="Wave Footer"
+  />
 </p>
