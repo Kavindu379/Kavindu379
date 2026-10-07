@@ -46,15 +46,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/kavindu-kavishka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://fb.com/kavindukavishka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/kavindukavishka" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="40" alt="Facebook" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/rhk_kavishka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
   </a>
 </p>
 
