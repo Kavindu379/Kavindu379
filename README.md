@@ -56,13 +56,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kavindu-kavishka-6a2016362/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://facebook.com/kavindukavishka">Facebook</a>
-  &nbsp;•&nbsp;
-  <a href="https://instagram.com/rhk_kavishka">Instagram</a>
-</p>
+
 
 ---
 
