@@ -89,12 +89,12 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects-Building-0E75B6?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Learning-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Kavindu379/Mango-AI-Quality-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu379&repo=Mango-AI-Quality-System&theme=radical" />
+  </a>
 </p>
 
 ---
