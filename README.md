@@ -12,51 +12,50 @@
 
 ### 🚀 About Me
 
-<pre>
-╭──────────────────────────────────────────────────────╮
-│                    KAVINDU.EXE                       │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  👨‍💻 Role       : Software Engineering Undergraduate │
-│  🎓 University : KDU                                │
-│  🤖 Focus      : AI / ML & Computer Vision          │
-│  💻 Building   : Software • Web • Mobile            │
-│  🎮 Exploring  : Game & Interactive Technology      │
-│  🌱 Status     : Learning • Building • Improving    │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-</pre>
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <h3>👨‍💻 KAVINDU.EXE</h3>
+      <p><code>Developer Profile</code></p>
+    </td>
+    <td>
+      <b>🎓 Role</b><br>
+      Software Engineering Undergraduate
+      <br><br>
+      <b>🏫 University</b><br>
+      General Sir John Kotelawala Defence University
+      <br><br>
+      <b>🤖 Focus</b><br>
+      AI / ML • Computer Vision
+      <br><br>
+      <b>💻 Building</b><br>
+      Software • Web • Mobile
+      <br><br>
+      <b>🎮 Exploring</b><br>
+      Game & Interactive Technology
+      <br><br>
+      <b>🌱 Status</b><br>
+      Learning • Building • Improving
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Connect with Me
 
-<p align="left">
-
+<p align="center">
   <a href="https://linkedin.com/in/kavindu-kavishka" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://fb.com/kavindukavishka" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Facebook"
-      height="30"
-      width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://instagram.com/rhk_kavishka" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram"
-      height="30"
-      width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-
 </p>
 
 ---
@@ -64,12 +63,9 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=android,arduino,cpp,firebase,git,html,illustrator,java,js,mysql,nodejs,photoshop,python,react&perline=15"
-      alt="My Skills"
-    />
+    <img src="https://skillicons.dev/icons?i=android,arduino,cpp,firebase,git,html,illustrator,java,js,mysql,nodejs,photoshop,python,react&perline=15" alt="My Skills" />
   </a>
 </p>
 
@@ -77,30 +73,24 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindu379&show_icons=true&locale=en&layout=compact&theme=radical" alt="Kavindu's Top Languages" height="165" />
+</p>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindu379&show_icons=true&locale=en&layout=compact&theme=radical"
-    alt="Kavindu's Top Languages"
-    height="165"
-  />
-
-  <br><br>
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu379&theme=radical"
-    alt="Kavindu's GitHub Streak"
-  />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu379&theme=radical" alt="Kavindu's GitHub Streak" />
+</p>
 
 ---
 
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6c5ce7&height=120&section=footer"
-    alt="Wave Footer"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=kavindu379&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6c5ce7&height=120&section=footer" alt="Wave Footer" />
 </p>
