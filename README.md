@@ -40,6 +40,20 @@
 
 ---
 
+### 🌐 Find Me Around the Web
+
+<p align="left">
+
+  💼 <a href="https://linkedin.com/in/kavindu-kavishka" target="_blank"><b>LinkedIn</b></a><br>
+  🌐 <a href="https://kavindu379.github.io/kavindu-portfolio/" target="_blank"><b>Portfolio</b></a><br>
+  🐙 <a href="https://github.com/Kavindu379" target="_blank"><b>GitHub</b></a><br>
+  📸 <a href="https://instagram.com/rhk_kavishka" target="_blank"><b>Instagram</b></a><br>
+  📘 <a href="https://facebook.com/kavindukavishka" target="_blank"><b>Facebook</b></a>
+
+</p>
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -61,15 +75,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu379&theme=radical" alt="Kavindu's GitHub Streak" />
 
 </div>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavindu379&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
 ---
 
 <p align="center">
