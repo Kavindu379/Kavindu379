@@ -88,60 +88,58 @@
 ---
 
 ---
+
+That's why GitHub shows the HTML itself instead of rendering the project cards.
+
+### ✅ Replace your entire Featured Projects section with this
+
+Make sure there are **NO backticks (` ``` `)** before or after this section:
+
+
 ### 🚀 Featured Projects
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-
       <h3 align="center">🥭 Mango AI Quality System</h3>
-
       <p align="center">
         AI-powered mango quality and ripeness assessment system using
         YOLOv8, EfficientNet-B0, computer vision, and rule-based
         decision support.
       </p>
-
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
-
       <p align="center">
         <a href="https://github.com/Kavindu379/Mango-AI-Quality-System">
           🔗 <b>View Project</b>
         </a>
       </p>
-
     </td>
-
     <td width="50%" valign="top">
-
       <h3 align="center">🧪 Laboratory Information System</h3>
-
       <p align="center">
-        A laboratory information management system designed to
+        Laboratory information management system designed to
         streamline laboratory workflows, data management, and
         operational processes.
       </p>
-
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Web%20Development-0E75B6?style=flat-square&logo=googlechrome&logoColor=white" />
         <img src="https://img.shields.io/badge/Information%20System-6C5CE7?style=flat-square&logo=files&logoColor=white" />
       </p>
-
       <p align="center">
         <a href="https://github.com/TIHOR1140/Laboratory-Information-System">
           🔗 <b>View Project</b>
         </a>
       </p>
-
     </td>
   </tr>
 </table>
+
 ---
 
 <p align="center">
