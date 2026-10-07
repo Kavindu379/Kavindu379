@@ -45,17 +45,25 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kavindu-kavishka" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/kavindu-kavishka-6a2016362/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/kavindukavishka" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/rhk_kavishka" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kavindu-kavishka-6a2016362/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://facebook.com/kavindukavishka">Facebook</a>
+  &nbsp;•&nbsp;
+  <a href="https://instagram.com/rhk_kavishka">Instagram</a>
 </p>
 
 ---
