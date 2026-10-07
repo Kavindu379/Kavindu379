@@ -91,43 +91,15 @@
 
 ### 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🥭 Mango AI Quality System</h3>
-      <p>
-        AI-powered mango quality classification system using
-        Computer Vision and Deep Learning.
-      </p>
-      <p>
-        <code>Python</code>
-        <code>PyTorch</code>
-        <code>EfficientNet</code>
-        <code>YOLO</code>
-        <code>React</code>
-      </p>
-      <a href="https://github.com/Kavindu379/Mango-AI-Quality-System">
-        🔗 View Project
-      </a>
-    </td>
+<p align="center">
+  <a href="https://github.com/Kavindu379/Mango-AI-Quality-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindu379&repo=Mango-AI-Quality-System&theme=radical" alt="Mango AI Quality System" />
+  </a>
 
-    <td width="50%" align="center">
-      <h3>🧪 Laboratory Information System</h3>
-      <p>
-        Laboratory information management system designed
-        to streamline laboratory-related workflows and data.
-      </p>
-      <p>
-        <code>JavaScript</code>
-        <code>Web Development</code>
-        <code>Information System</code>
-      </p>
-      <a href="https://github.com/Kavindu379/Laboratory-Information-System-main">
-        🔗 View Project
-      </a>
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/TIHOR1140/Laboratory-Information-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TIHOR1140&repo=Laboratory-Information-System&theme=radical" alt="Laboratory Information System" />
+  </a>
+</p>
 ---
 
 <p align="center">
