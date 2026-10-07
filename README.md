@@ -87,13 +87,14 @@
 
 ---
 
-### 🏆 GitHub Trophies
+---
+
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Kavindu379&theme=radical"
-    alt="GitHub Trophies"
-  />
+  <img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-Building-0E75B6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Learning-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
