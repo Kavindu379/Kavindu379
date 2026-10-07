@@ -83,19 +83,6 @@
 
 ---
 
----
-
----
-
----
-
-That's why GitHub shows the HTML itself instead of rendering the project cards.
-
-### ✅ Replace your entire Featured Projects section with this
-
-Make sure there are **NO backticks (` ``` `)** before or after this section:
-
-
 ### 🚀 Featured Projects
 
 <table align="center">
